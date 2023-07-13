@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/adx-labs/abeychain/explorer/vue2-ace-editor.git#dev"
+    "url": "git+https://github.com/markallen0319/vue2-ace-editor.git"
   },
   "author": "chairuosen",
   "license": "MIT",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/chairuosen/vue2-ace-editor#readme",
   "dependencies": {
-    "brace": "git+https://gitlab.com/adx-labs/abeychain/explorer/brace.git#dev"
+    "brace": "git+https://github.com/markallen0319/brace.git"
   }
 }
